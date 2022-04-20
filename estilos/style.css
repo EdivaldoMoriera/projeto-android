@@ -35,7 +35,7 @@ a.externo::after{
   content: '\1F517';
 }
 header{
-  background-image: linear-gradient(to right, rgba(32, 121, 21, 0.479), rgba(239, 239, 13, 0.666));
+  background-image: linear-gradient(to right, var(--cor3),var(--cor5));
   min-height: 150px;
   text-align: center;
   padding-top: 30px;
